@@ -1,0 +1,6 @@
+appName: helm-app
+Port: 8111
+targetPort : 80
+nodePort: 30111
+image: belalelnady/simple-app
+ 
